@@ -21,7 +21,7 @@
 
 ### txtMerge2Gboard 文件夹
 
-文件合并后的 `txt` 转换为 `Gboard` 词库，转化后的文件为 `Gboard词库.zip`
+文件合并后的 `txt` 转换为 `Gboard` 词库，转化后的文件为 `Gboard.zip`
 
 ### txtMerge2Rime 文件夹
 
