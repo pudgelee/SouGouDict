@@ -13,15 +13,15 @@
         ├── scel
         ├── txt
         ├── txtMerge
-            ├── txtMerge.txt   
+            ├── txtMerge.7z   
         ├── txtMerge2Gboard
             ├── Gboard.zip  
         └── txtMerge2Rime
-            ├── sougou2Rime.dict.yaml  
+            ├── sougou2Rime.dict.yaml.7z  
 
 2. 文件说明
     + `scel`，搜狗所有的词库 `scel` 文件
     + `txt`，搜狗 `scel` 文件转换为 `txt` 文件
-    + `txtMerge`，`txt` 文件合并，合并后文件为 `txtMerge.txt`
+    + `txtMerge`，`txt` 文件合并，合并后文件为 `txtMerge.txt`，存放于压缩包 `txtMerge.7z`
     + `txtMerge2Gboard`，`txtMerge.txt` 转换为 `Gboard` 词库，转化后的文件为 `Gboard.zip`
-    + `txtMerge2Rime`，`txtMerge.txt` 转换为 `Rime` 词库，转化后的文件为 `sougou2Rime.dict.yaml`
+    + `txtMerge2Rime`，`txtMerge.txt` 转换为 `Rime` 词库，转化后的文件为 `sougou2Rime.dict.yaml`，存放于压缩包 `sougou2Rime.dict.yaml.7z`
